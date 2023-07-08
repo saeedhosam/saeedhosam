@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 --> 
-
-- 🔭 Currently studying Software Engineering at ALX Africa.
+- 🔭 I'm currently studying Software Engineering at ALX Africa.
 
 ^_^
